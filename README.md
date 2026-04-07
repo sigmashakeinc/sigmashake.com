@@ -21,7 +21,7 @@ These `.cast` files are served via `raw.githubusercontent.com` and rendered by [
 
 ## Usage
 
-Each cast simulates a Claude Code session where SigmaShake's `ssg-check.sh` hook blocks a dangerous action in real-time.
+Each cast simulates a Claude Code session where SigmaShake's `ssg hook eval` hook blocks a dangerous action in real-time.
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/asciinema-player@3/dist/bundle/asciinema-player.min.js"></script>

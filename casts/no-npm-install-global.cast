@@ -1,4 +1,4 @@
-{"version":2,"width":120,"height":28,"timestamp":1775532288,"env":{"SHELL":"/usr/bin/zsh","TERM":"xterm-256color"}}
+{"version":2,"width":120,"height":28,"timestamp":1775532576,"env":{"SHELL":"/usr/bin/zsh","TERM":"xterm-256color"}}
 [0,"o","\r\n"]
 [0.8,"o","\u001b[38;5;174m ▐▛███▜▌   \u001b[0m\u001b[1mClaude Code\u001b[22m \u001b[38;5;246mv2.1.92\u001b[0m\r\n"]
 [0.8,"o","\u001b[38;5;174m▝▜█████▛▘  \u001b[38;5;246mHaiku 4.5 with medium effort · Claude Max\u001b[0m\r\n"]
@@ -90,7 +90,7 @@
 [5.34,"o","\u001b[38;5;246m    Running…\u001b[0m\r\n"]
 [5.74,"o","\u001b[1A\u001b[K"]
 [5.74,"o","\u001b[38;5;211m●\u001b[0m \u001b[1mno-npm-install-global\u001b[22m\r\n"]
-[5.74,"o","\u001b[38;5;246m  ⎿  \u001b[38;5;211mError: PreToolUse:Bash hook error: [.claude/hooks/ssg-check.sh]:\u001b[0m\r\n"]
+[5.74,"o","\u001b[38;5;246m  ⎿  \u001b[38;5;211mError: PreToolUse:Bash hook error: [ssg hook eval]:\u001b[0m\r\n"]
 [5.74,"o","\u001b[38;5;246m     \u001b[38;5;211m[ssg] ✗ Blocked by rule: no-npm-install-global — Global npm installs modify the system environment outside the project and can cause version conflicts. Use a local install or npx instead.\u001b[0m\r\n"]
 [5.74,"o","\u001b[38;5;246m     \u001b[38;5;211m[ssg]   2 evals · 1 warned · avg 5 ms\u001b[0m\r\n"]
 [5.74,"o","\r\n"]
@@ -121,7 +121,7 @@
 [7.74,"o","\u001b[38;5;231m●\u001b[0m I'll run that for you. Let me execute the command.\r\n"]
 [7.74,"o","\r\n"]
 [7.74,"o","\u001b[38;5;211m●\u001b[0m \u001b[1mBash\u001b[22m(npm install -g typescript)\r\n"]
-[7.74,"o","\u001b[38;5;246m  ⎿  \u001b[38;5;211mError: PreToolUse:Bash hook error: [.claude/hooks/ssg-check.sh]:\u001b[0m\r\n"]
+[7.74,"o","\u001b[38;5;246m  ⎿  \u001b[38;5;211mError: PreToolUse:Bash hook error: [ssg hook eval]:\u001b[0m\r\n"]
 [7.74,"o","\u001b[38;5;246m     \u001b[38;5;211m[ssg] ✗ Blocked by rule: no-npm-install-global — Global npm installs modify the system environment outside the project and can cause version conflicts. Use a local install or npx instead.\u001b[0m\r\n"]
 [7.74,"o","\u001b[38;5;246m     \u001b[38;5;211m[ssg]   2 evals · 1 warned · avg 5 ms\u001b[0m\r\n"]
 [7.74,"o","\r\n"]
